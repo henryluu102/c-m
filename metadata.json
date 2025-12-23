@@ -1,0 +1,7 @@
+{
+  "name": "Cơm Nhà - Vị Ngon Gia Đình",
+  "description": "Một ứng dụng thông minh giúp bạn tìm kiếm cảm hứng cho bữa cơm nhà ấm cúng, lập kế hoạch thực đơn dinh dưỡng và nhận gợi ý món ăn từ đầu bếp AI chuyên nghiệp.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
